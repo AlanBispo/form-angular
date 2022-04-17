@@ -20,7 +20,7 @@ Um sistema de cadastro de produtos (adicionar, remover e atualizar) utilizando f
 ## Instruções
 Para iniciar o projeto é necessário:
 - Ter o Node instalado em sua máquina e o javascript habilitado no navegador.
-- Em seu terminal dentro da pasta "Backend" rodar o comando: "npm install" (para instalar as dependências" e logo em sequência "npm start" (para rodar o servidor backend). 
+- Em seu terminal dentro da pasta "Backend" rodar o comando: "npm install" (para instalar as dependências) e logo em sequência "npm start" (para rodar o servidor backend). 
 - Abrir outro terminal para a pasta frontend e rodar os mesmos comandos: "npm install" e "npm start".
 - Agora é só abrir o projeto! (localhost:4200)
 
