@@ -3,11 +3,12 @@
 
 # Sobre o projeto
 
-Um sistema de cadastro de produtos (adicionar, remover e atualizar) utilizando formulário.
+Um sistema de cadastro de produtos (adicionar, remover e atualizar) utilizando formulário e o framework Angular (2+) com TypeScript.
 
 # Tecnologias utilizadas
 - HTML5 / CSS3 / JavaScript (ES6+)
 - Angular (2+)
+- TypeScript
 
 
   <img src="https://github.com/AlanBispo/form-angular/blob/main/frontend/src/assets/img/home.png" width="700px" />
